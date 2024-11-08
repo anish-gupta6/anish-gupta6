@@ -32,4 +32,8 @@ Welcome to my GitHub profile! I’m a passionate **Web & App Developer** with a 
 
 ---
 
+<div align="center">
+
 ### 🔥 "Code is like humor. When you have to explain it, it’s bad."
+
+</div>
