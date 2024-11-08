@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I’m a passionate **Web & App Developer** with a 
 
 ## 📫 **Get in Touch**
 
- **📧 Email:** [guptaanish334@gmail.com](mailto:guptaanish334@gmail.com) </br>
- **🪪 Portfolio:** [Your Portfolio Link](https://yourportfolio.com)
+**<h3>📧 Email:** [guptaanish334@gmail.com](mailto:guptaanish334@gmail.com) </h3>
+**<h3>🪪 Portfolio:** [Your Portfolio Link](https://yourportfolio.com)</h3>
 
 ---
 
