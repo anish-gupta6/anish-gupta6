@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I’m a passionate **Web & App Developer** with a 
 
 
 ## 🌐 **Socials**
-<a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30"/></a>
-<a href="https://facebook.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/-Facebook-4267B2?style=flat&logo=facebook&logoColor=white" height="30"/></a>
-<a href="https://instagram.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="30"/></a>
+<a href="https://linkedin.com/in/anishgupta46" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30"/></a>
+<a href="https://www.facebook.com/anish334gupta" target="_blank"><img src="https://img.shields.io/badge/-Facebook-4267B2?style=flat&logo=facebook&logoColor=white" height="30"/></a>
+<a href="https://www.instagram.com/anis_gupta6" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="30"/></a>
 
 
 
